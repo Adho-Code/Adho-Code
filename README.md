@@ -13,4 +13,4 @@ Unconventional professional valued for driving consistency and quality throughou
 ## Languages
 *Angular
 *Python
-*React
+1: React
