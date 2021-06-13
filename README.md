@@ -14,3 +14,7 @@ Unconventional professional valued for driving consistency and quality throughou
 * Angular
 * React
 * Python
+* Django
+* HTML
+* CSS
+* Javascript
