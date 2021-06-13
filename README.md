@@ -10,7 +10,7 @@ Enthusiastic individual with superior skills in working in both team-based and i
 Unconventional professional valued for driving consistency and quality throughout all phases of software development projects. Committed to producing high-quality, user-friendly, scalable and bug-free software.
 
 
-## 👋Languages
+## Languages
 * Angular
 * React
 * Python
