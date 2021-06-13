@@ -1,4 +1,4 @@
-## Hithere  I'm ADHO 👋 
+## Hi there  I'm ADHO 👋 
 
 
 A full-stack web developer from Marsabit, Kenya. I obtained my education from Moringa School.
