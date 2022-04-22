@@ -12,7 +12,7 @@ Unconventional professional valued for driving consistency and quality throughou
 
 ## Languages
 * Angular
-* React
+* Vue Js
 * Python
 * Django
 * HTML
